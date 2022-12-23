@@ -13,6 +13,7 @@ using namespace std;
 HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE);
 COORD CursorPosition;
 
+
 int enemyY[3];
 int enemyX[3];
 int enemyFlag[3];
